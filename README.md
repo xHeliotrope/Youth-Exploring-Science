@@ -1,7 +1,7 @@
 # Youth-Exploring-Science
 Youth Exploring Science Android application
 
-![Youth Exploring Science Logo] (https://static.wixstatic.com/media/7ac9f7_44f9bd25329e4715977e693452fe3749.png/v1/fill/w_615,h_203,al_c,usm_0.66_1.00_0.01/7ac9f7_44f9bd25329e4715977e693452fe3749.png)
+![Youth Exploring Science Logo(https://static.wixstatic.com/media/7ac9f7_44f9bd25329e4715977e693452fe3749.png/v1/fill/w_615,h_203,al_c,usm_0.66_1.00_0.01/7ac9f7_44f9bd25329e4715977e693452fe3749.png)
 
 
 Android Application for Youth Exploring Science student interns.  App includes student resources, event schedule and contact list for Youth Exploring Science staff.
